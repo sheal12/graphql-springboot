@@ -1,0 +1,21 @@
+
+type Query{
+
+allTeam:[Team]
+
+getTeam(teamId:ID!):Team
+
+}
+
+
+
+type Team{
+
+ id:ID!
+ firstName:String
+ lastName:String
+ email:String
+ regDate: Date
+
+
+}

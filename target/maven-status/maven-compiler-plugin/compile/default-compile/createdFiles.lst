@@ -1,0 +1,7 @@
+com\techprograming\tech\entity\Team.class
+com\techprograming\tech\TechprogramingApplication.class
+com\techprograming\tech\repository\TeamOperationRepository.class
+com\techprograming\tech\service\TeamServiceImp.class
+com\techprograming\tech\controller\TeamController.class
+com\techprograming\tech\controller\GraphqlController.class
+com\techprograming\tech\service\TeamService.class
