@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.techprograming</groupId>
 	<artifactId>tech</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>techprograming</name>
 	<description>Tech Programing with shailendra mittal</description>
 	<packaging>jar</packaging>
